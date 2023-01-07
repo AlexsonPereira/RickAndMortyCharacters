@@ -1,0 +1,9 @@
+.Wave {
+  position: fixed;
+  bottom: 0;
+  height: 60vh;
+}
+
+body {
+  background-color: #08c952;
+}
